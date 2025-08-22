@@ -5,6 +5,11 @@
 <End of background information about the Character>
 =====
 <Dialogue so far>
+
+Click on the **Start Chat** button below and say *'Hi'* to begin your conversation with the chatbot. The chatbot will ask various questions to understand your preferences about homes or properties (real estate). At some point, the chatbot will change the topic and ask you a different scenario-based question. Please pay attention and ensure you understand the question before answering. Later in this study, you must answer three extra questions to identify if you understood the scenario-based question and all the options correctly. After the scenario-based question, the chatbot will present various attributes. You need to compare and select the best. When the chatbot asks you to remember specific details, please memorise them carefully, as you will need to recall them later in the study.
+
+[Interviewer]: Yes
+
 !<INPUT 1>!
 
 !<INPUT 2>!
@@ -15,3 +20,5 @@ Task: First, study the background information that I provided you about a fictio
 
 Output format -- output your response in json, where you provide the following: 
 {"utterance": "[...]"} 
+
+

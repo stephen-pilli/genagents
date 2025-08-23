@@ -1,0 +1,1256 @@
+Company A
+Company B
+Company B
+Company A
+Company B
+Company B
+Company B
+Company A
+Company A
+Company B
+Company B
+Company B
+Company B
+Company B
+Company A
+Company B
+Company B
+Company A
+Company B
+Company A
+Company B
+Company A
+Company A
+Company B
+Company B
+Company A
+Company B
+Company A
+Company A
+Company A
+Company B
+Company B
+Company B
+Company A
+Company A
+Company A
+Company B
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company B
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company B
+Company B
+Company B
+Company A
+Company B
+Company A
+Company B
+Company B
+Company B
+Company A
+Company B
+Company A
+Company B
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company B
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company B
+Company A
+Company A
+Company A
+Company B
+Company B
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company B
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company B
+60-40
+50-50
+50-50
+50-50
+50-50
+50-50
+60-40
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+60-40
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+60-40
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+60-40
+50-50
+50-50
+60-40
+50-50
+50-50
+50-50
+60-40
+50-50
+50-50
+Invalid : Maintain budget
+50-50
+Invalid : Maintain present
+Invalid : Decrease auto
+Invalid : Decrease auto
+Invalid : Maintain budget
+Invalid : Decrease auto
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Decrease auto
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Decrease auto
+Invalid : Maintain present
+Invalid : Decrease auto
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Decrease auto
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Decrease auto
+Invalid : Maintain present
+Invalid : Decrease auto.
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Decrease auto
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain budget.
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain present
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+Invalid : Maintain present
+50-50
+50-50
+50-50
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Blue car
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+50-50
+Invalid : Maintain present
+Invalid : Decrease auto
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain present.
+Invalid : Maintain present
+College A
+College A
+College A
+College A
+College A
+College A
+College B
+College A
+College A
+College A
+College A
+College B
+College A
+College A
+College A
+College B
+College A
+College A
+College A
+College B
+College B
+College B
+College A
+College A
+College A
+College A
+College B
+College B
+College B
+College A
+College A
+College A
+College A
+College B
+College A
+College B
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College B
+College A
+College B
+College A
+College B
+College A
+College A
+College A
+College A
+College A
+College A
+Invalid : MOVE COLLEGE A
+College A
+College A
+College A
+College B
+College B
+College A
+College B
+College B
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College B
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+60-40
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+60-40
+50-50
+50-50
+50-50
+50-50
+50-50
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Decrease auto
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Decrease auto
+50-50
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain budget
+50-50
+50-50
+50-50
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain present
+50-50
+50-50
+50-50
+50-50
+60-40
+60-40
+60-40
+Invalid : Maintain present
+50-50
+60-40
+50-50
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+50-50
+50-50
+50-50
+Invalid : Maintain present
+50-50
+50-50
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+50-50
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Increase auto
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain budget
+50-50
+Invalid : Maintain budget
+50-50
+50-50
+Invalid : Maintain present
+Invalid : Maintain present
+50-50
+Invalid : Maintain present
+50-50
+Invalid : Maintain budget
+Invalid : Maintain present
+50-50
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain budget.
+Invalid : Maintain budget
+50-50
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain budget
+50-50
+Invalid : Maintain present
+Invalid : Maintain present
+60-40
+50-50
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Decrease auto
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+50-50
+50-50
+50-50
+50-50
+50-50
+50-50
+Invalid : Decrease auto
+50-50
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain budget
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain present
+Invalid : Maintain budget
+Invalid : Maintain budget
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+Invalid : First app
+College A
+Invalid : Second property
+College A
+College A
+College A
+College A
+College A
+Invalid : Second property
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+Invalid : Second property
+College A
+College A
+College A
+Invalid : Second property
+College A
+College A
+College A
+College A
+College A
+Invalid : Second property
+College A
+College A
+College A
+College B
+College B
+College A
+College B
+College B
+College A
+College A
+College B
+College B
+College A
+College A
+College B
+College B
+College A
+College A
+College A
+College A
+College B
+College A
+College A
+College A
+College B
+College B
+College B
+College B
+College B
+College B
+College B
+College A
+College A
+College B
+College B
+College B
+College B
+College A
+College A
+College A
+College B
+College A
+College B
+College A
+College B
+College B
+College B
+College A
+College A
+College A
+College A
+College A
+College A
+College B
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College B
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College B
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College B
+College A
+College A
+College B
+College A
+College A
+Company A
+College A
+College A
+College A
+College A
+College A
+College B
+College A
+College A
+College A
+College A
+College A
+College A
+Company B
+Company A
+Company B
+Company B
+Company B
+Company B
+Company B
+Company A
+Company A
+Company A
+Company B
+Company B
+Company A
+Company A
+Company B
+Company B
+Company A
+Company B
+Company A
+Company B
+Company A
+Company B
+Company A
+Company A
+Company B
+Company A
+Company B
+Company A
+Company B
+Company B
+Company B
+Company A
+Company A
+Company A
+Company A
+Company B
+Company A
+Company A
+Company A
+Company A
+Company A
+Company B
+Company B
+Company B
+Company B
+Company A
+Company A
+Company B
+Company A
+Company B
+Company A
+Company B
+Company A
+Company A
+Company B
+Company A
+Company B
+Company A
+Company B
+Company A
+Company B
+Company A
+Company B
+Company A
+Company B
+Company A
+Company B
+Company A
+Company B
+Company A
+Company A
+Company B
+Company A
+Company B
+Company A
+Company A
+Company A
+Company A
+Company B
+Company A
+Company A
+Company B
+Company B
+Company B
+Company A
+Company B
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company B
+Company B
+Company B
+Company A
+Company A
+Company A
+Company A
+Company A
+Company B
+Company A
+Company B
+Company B
+Company A
+Company B
+Company B
+Company A
+Company A
+Company B
+Company B
+Company B
+Company A
+Company B
+Company A
+Company B
+Company B
+Company A
+Company B
+Company A
+Company B
+Company B
+Company A
+Company A
+Company B
+Company B
+Company B
+Company B
+Company A
+Company A
+Company B
+Company B
+Company A
+Company B
+Company B
+Company A
+Company B
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company B
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company B
+Company A
+Company A
+Company A
+Company A
+Company A
+Company B
+Company B
+Company B
+Company A
+Company B
+Company A
+Company A
+Company A
+Company A
+Company B
+Company A
+Company B
+Company B
+Company B
+Company B
+Company A
+Company B
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company B
+Company A
+Company B
+Company B
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+Company A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College A
+College B
+College A
+College A
+College A
+College A
+College A
+College A
